@@ -1,9 +1,0 @@
-{
-    "description": "qr",
-    "main": "./main.html",
-  "engines" : { 
-    },
-    "scripts": {
-    "start": "node main.html"
-   }
-}
